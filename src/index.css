@@ -1,0 +1,18 @@
+#image {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #title{
+    font-size: 42px;
+  }
+  #header {
+      text-align: center;
+  }
+  #main {
+        font-family: "arial";
+  }
+ 
